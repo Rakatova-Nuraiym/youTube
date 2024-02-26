@@ -1,0 +1,17 @@
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  .button {
+    margin-top: auto;
+    width: 70px;
+    height: 70px;
+  }
+
+  button{
+    width: 100px;
+  }
+}

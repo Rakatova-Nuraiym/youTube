@@ -1,0 +1,14 @@
+.selfVideo {
+  display: flex;
+  justify-content: space-between;
+  .miniVideo {
+    width: 600px;
+
+    .Video {
+      width: 900px;
+      height: 600px;
+    }
+  }
+
+ 
+}
